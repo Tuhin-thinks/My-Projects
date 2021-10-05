@@ -1,0 +1,1 @@
+RealTime data plot > link:./RandomPlot-PyQt::text:Source Code::
