@@ -1,0 +1,3 @@
+PyQt5~=5.15.6
+pyzbar~=0.1.8
+opencv-python~=4.5.4

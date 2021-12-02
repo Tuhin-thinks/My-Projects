@@ -1,0 +1,4 @@
+{
+     "db_path": "mydatabase.sqlite",
+     "FRAME_COUNT_LIMIT": 16
+}
