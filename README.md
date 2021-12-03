@@ -8,3 +8,4 @@ Project Title | Source Link
 RealTime data plot | [Source Code](./RandomPlot-PyQt)
 Github Readme Table generator | [Source Code](./GenerateReadMeTable)
 BarCode - Attendance System | [Source Code](./BarCode%20-%20Attendance%20System)
+Image College creator | [Source Code](./Image-Collage)
